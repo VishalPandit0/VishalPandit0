@@ -1,4 +1,4 @@
-[![MasterHead](https://i0.wp.com/interactivesolutions.pk/wp-content/uploads/2022/05/Web-Development.jpg?w=845&ssl=1)]
+![MasterHead](https://i0.wp.com/interactivesolutions.pk/wp-content/uploads/2022/05/Web-Development.jpg?w=845&ssl=1)
 <h1 align="center">Hi 👋, I'm Vishal</h1>
 <h3 align="center">A frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif">
